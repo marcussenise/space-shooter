@@ -1,7 +1,7 @@
 # space-shooter
 A space-shooter game created using Javascript, HTML and CSS, for the Órbi Web-Game Developer Bootcamp.
 
-To play the game: 
+**To play the game:**  <br />
 Arrow up - go up <br />
 Arrow down - go down <br />
 Spacebar - shoot <br />
